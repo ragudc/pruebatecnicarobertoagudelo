@@ -1,0 +1,632 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    display: flex;
+    max-width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
+
+ul.navbar-nav.justify-content-right.socialicons {
+    margin-bottom: 100px;
+}
+
+.navbar-nav.menuabajo {
+    position: absolute;
+    padding-top: 80px;
+    margin-top: 290px;
+    margin-bottom: 180px;
+}
+
+.direccion {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    color: #000e67;
+    font-weight: 500;
+}
+
+.telefono {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    color: #000e67;
+    font-weight: 500;
+}
+
+.whatsapp {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    color: #000e67;
+    font-weight: 500;
+}
+
+.caja1 {
+    border-right: 1px solid #000e67;
+}
+
+.caja2 {
+    border-right: 1px solid #000e67;
+}
+
+.pacontacto {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    color: #484848;
+    font-weight: 500;
+}
+
+a.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    color: #000e67 !important;
+    font-weight: 500;
+    margin: 0 40px 0 -20px;
+}
+
+.iconosredesvmobile {
+    display: none;
+}
+
+.flex-container {
+    display: none;
+}
+
+.item {
+    margin: 5px 0 5px 0;
+    padding: 5px;
+    flex-grow: 1;
+}
+
+.textos {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    color: #484848;
+    font-weight: 500;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 20px;
+}
+
+.card {
+    border: none;
+    margin: 10px 10px 10px 10px;
+    background-color: #eaeaea;
+    padding: 10px 0 10px 0;
+}
+
+.oseo {
+    background-color: #FAFAFA;
+}
+
+.frax {
+    background-color: #FAFAFA;
+}
+
+.icono1 {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto;
+    width: 130px;
+    height: 93px;
+}
+
+.icono2 {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto;
+    width: 150px;
+    height: 139px;
+}
+
+.icono3 {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto;
+    width: 100px;
+    height: 123px;
+}
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    color: #000e67;
+    font-weight: 700;
+    text-align: center;
+}
+
+.procita {
+    background-color: #eaeaea;
+}
+
+.cita {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    color: #000e67;
+    font-weight: 700;
+    text-align: center;
+}
+
+.centro {
+    background-color: #eaeaea;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #484848;
+    font-weight: 700;
+    text-align: center;
+    line-height: 20px;
+}
+
+.centro2 {
+    background-color: #eaeaea;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #484848;
+    font-weight: 700;
+    text-align: center;
+    line-height: 20px;
+    border-left: 2px solid #ebc648;
+}
+
+.convenio {
+    background-color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    color: #000e67;
+    font-weight: 700;
+    text-align: center;
+    line-height: 20px;
+}
+
+.nuestroconvenio {
+    display: flex;
+    margin-left: 30rem;
+}
+
+.miwhatsapp {
+    display: flex;
+    max-width: 80%;
+    height: auto;
+}
+
+.sura {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.coomeva {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+}
+
+.sbolivar {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
+
+.colmedica {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
+
+.sura2 {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
+
+.ipsu {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+}
+
+.allianza {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
+.sanitas {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
+.bone {
+    background-color: #ffffff;
+}
+
+.paosteoporosis {
+    background-color: #000e67;
+}
+
+.tlosteoporosis {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 700;
+    text-align: left;
+}
+
+.parrafobone {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 700;
+    text-align: left;
+}
+
+.btn.btn-primary {
+    background-color: #ebc648;
+    color: #000e67 !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 700;
+    text-align: left;
+    border: none;
+    border-radius: 10px;
+}
+
+.page-footer {
+    margin-top: 20px;
+    max-width: 100%;
+    background-color: #484848;
+}
+
+.nuestrassedes {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #ebc648;
+    font-weight: 700;
+    text-align: left;
+}
+
+.sedesfooter {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    text-align: left;
+    line-height: 1.4em;
+}
+
+.sedesfooter2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    text-align: left;
+    line-height: 1.4em;
+}
+
+.sedesfooter3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    text-align: left;
+    line-height: 1.4em;
+}
+
+.sedesfooter4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    text-align: left;
+    line-height: 1.4em;
+}
+
+.sedesfooter5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #ebc648;
+    font-weight: 700;
+    text-align: left;
+    line-height: 1.4em;
+}
+
+.isdc {
+    display: flex;
+    max-width: 100%;
+}
+
+.acmm {
+    display: flex;
+    max-width: 100%;
+}
+
+.logofooter {
+    display: flex;
+    max-width: 100%;
+}
+
+.sedesfooter6 {
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    text-align: left;
+    line-height: 1.4em;
+}
+
+.fbfooter {
+    display: flex;
+    width: 80%;
+    padding: 0 5px 0 5px;
+}
+
+.footer-copyright {
+    background-color: #858585;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-size: 500;
+}
+
+@media only screen and (max-width:768px) {
+    .navbar-light .navbar-toggler {
+        margin-left: 10%;
+    }
+    .navbar-nav.menuabajo {
+        display: flex;
+        width: 100%;
+        margin-left: -60%;
+        margin-top: 40%;
+        background-color: #eaeaea;
+        z-index: 5;
+    }
+    a.nav-link {
+        margin-left: 5%;
+    }
+    .navbar.navbar-expand-lg.navbar-light.bg-light {
+        display: flex;
+    }
+    ul.navbar-nav.justify-content-right.socialicons {
+        display: none;
+    }
+    .iconosredesvmobile {
+        display: flex;
+    }
+    .iconosredesrsp {
+        display: flex;
+        justify-content: center;
+    }
+    .iconossociales {
+        display: flex;
+        padding: 0 10px 0 10px;
+        margin-top: 10px;
+    }
+    .caja1 {
+        display: none;
+    }
+    .caja2 {
+        display: none;
+    }
+    .caja3 {
+        display: none;
+    }
+    .contactovmobile {
+        display: flex;
+        z-index: 1;
+    }
+    .caj1rsp {
+        display: flex;
+    }
+    .caja2rsp {
+        display: flex;
+    }
+    .caja3rsp {
+        display: flex;
+    }
+    div.flex-container {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    div.item {
+        margin: 5px 10px 5px 10px;
+        padding: 5px;
+        flex-grow: 1;
+    }
+    .direccion {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        color: #000e67;
+        font-weight: 500;
+    }
+    .telefono {
+        margin-top: 15px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        color: #000e67;
+        font-weight: 500;
+    }
+    .whatsapp {
+        margin-top: 15px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        color: #000e67;
+        font-weight: 500;
+    }
+    .pacontacto {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        color: #484848;
+        font-weight: 500;
+    }
+    .textos {
+        display: inline-block;
+        position: relative;
+        margin: 0 auto;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .parrafo1 {
+        margin: 10px 10px 10px 10px;
+        font-size: 20px;
+        color: #484848;
+        font-weight: 500;
+        text-align: center;
+        line-height: 35px;
+    }
+    .centro2 {
+        background-color: #eaeaea;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+        color: #484848;
+        font-weight: 700;
+        text-align: center;
+        line-height: 20px;
+        border: none;
+    }
+    .cita {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        color: #000e67;
+        font-weight: 700;
+        text-align: center;
+    }
+    .nuestroconvenio {
+        display: flex;
+        margin-left: 0;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        color: #000e67;
+        font-weight: 700;
+        text-align: center;
+    }
+    .miwhatsapp {
+        display: flex;
+        max-width: 50%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .sura {
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .coomeva {
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .sbolivar {
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .colmedica {
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .sura2 {
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .ipsu {
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .allianza {
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .sanitas {
+        display: flex;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .nuestrassedes {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+        color: #ebc648;
+        font-weight: 700;
+        text-align: center;
+    }
+    .sedesfooter {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        color: #ffffff;
+        font-weight: 500;
+        text-align: center;
+        line-height: 1.4em;
+    }
+    .sedesfooter2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        color: #ffffff;
+        font-weight: 500;
+        text-align: center;
+        line-height: 1.4em;
+    }
+    .sedesfooter3 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        color: #ffffff;
+        font-weight: 500;
+        text-align: center;
+        line-height: 1.4em;
+    }
+    .sedesfooter4 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        color: #ffffff;
+        font-weight: 500;
+        text-align: center;
+        line-height: 1.4em;
+    }
+    .sedesfooter5 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+        color: #ebc648;
+        font-weight: 700;
+        text-align: center;
+        line-height: 1.4em;
+    }
+    .logofooter {
+        display: flex;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    .sedesfooter6 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+        color: #ffffff;
+        font-weight: 700;
+        text-align: center;
+        line-height: 1.4em;
+    }
+}
